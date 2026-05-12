@@ -1,0 +1,8 @@
+/* For Expo Web: keep dark theme background. */
+:root {
+  color-scheme: dark;
+}
+html, body, #root {
+  height: 100%;
+}
+
